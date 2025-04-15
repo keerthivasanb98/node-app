@@ -1,2 +1,1 @@
-Hello world!
-Learning DevOps!
+Hello from Salemaf
